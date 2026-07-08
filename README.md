@@ -1,6 +1,6 @@
 ## Hello World!
 
-### Bits About Me
+### 🌱 Bits About Me
 - 🎨 multimedia artist
 - 💻 current info tech college student with a programming concentration 
 - 💬 excited to connect with fellow students, devs, designers, and professionals in tech
@@ -14,3 +14,10 @@ Tools
 - NetBeans
 - Visual Studio
 - Visual Studio Code
+
+### 🎯 Career Interests
+- UX / UI Design
+- Software Development
+- Frontend Development
+- App Development
+- Software Engineering
