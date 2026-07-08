@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello World!
 
-<!--
-**ashyapeachie/ashyapeachie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bits About Me
+- 🎨 multimedia artist
+- 💻 current info tech college student with a programming concentration 
+- 💬 excited to connect with fellow students, devs, designers, and professionals in tech
 
-Here are some ideas to get you started:
+## 📚 Tech & Tools
+Technologies 
+- .NET
+- ASP.NET Core MVC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools 
+- NetBeans
+- Visual Studio
+- Visual Studio Code
